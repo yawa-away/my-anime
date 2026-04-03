@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "https://yawa-away.github.io/my-anime/",
+=======
+>>>>>>> 6378a0439fdae3deab6371c31e74855c6ab57714
   "name": "my-anime",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +18,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
+<<<<<<< HEAD
     "extends": ["react-app"]
   },
   "browserslist": {
@@ -22,3 +26,22 @@
     "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   }
 }
+=======
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+>>>>>>> 6378a0439fdae3deab6371c31e74855c6ab57714
